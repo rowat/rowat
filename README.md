@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rowat
 - 👀 I’m interested in programming()
-- 🌱 I’m currently learning c++ 
-- 💞️ I’m looking to collaborate on web development and android development.
--My favorite languages are html, css, php and kotlin and c++.
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on android development.
+-My favorite languages are Kotlin,Java and c++.
 - 📫 How to reach me: dennisasuga@gmail.com
 
 <!---
