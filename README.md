@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming()
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on android development.
--My favorite languages are Kotlin,Java and c++.
+- 💞️ My favorite languages are Kotlin,Java and c++.
 - 📫 How to reach me: dennisasuga@gmail.com
 
 <!---
